@@ -20,6 +20,7 @@ Please kindly add your names here to have a comprehensive list of the Sanger Tea
 9. Adepoju Ayodeji
 10. Lawrence Edemhanria
 11. Olayemi Olaoluwa Samuel
+12. Kayode Yetunde Oluwajuwon
 ## Programming language
 
 Use the table below to key in your name and programming language used to generate your script. If there are dependencies (in the language used), please kindly mention it in the table too. 
@@ -41,6 +42,7 @@ Use the table below to key in your name and programming language used to generat
 |Lawrence Edemharia|Python|Code writer version 4.1 Build 39
 |Ankita Kumari | bash
 |Olayemi Olaoluwa Samuel | PHP  
+|Kayode Yetunde Oluwajuwon| Python | Python 3.7 |
 # Workflow
 ![Workflow](https://github.com/winfrednyoroka/TeamSanger_HackBio2020/blob/master/Flowchart.png)
 
